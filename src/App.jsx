@@ -98,7 +98,7 @@ const App = () => {
 
   return (
     <div className='min-h-screen bg-black flex justify-center items-center'>
-      <div className="h-[calc(100%-10px)] w-full rounded-xl bg-[#363C43] text-white p-8 flex gap-8">
+      <div className="h-[calc(100%-10px)] w-full rounded-xl bg-gradient-to-br from-[#2a2a2a] via-[#1c1c1c] to-black text-white p-8 flex gap-8">
         {/* Left half - Empty responsive space */}
         <div className="flex-1" />
         
